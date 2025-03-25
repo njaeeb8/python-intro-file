@@ -1,6 +1,8 @@
+import streamlit as st
+
 print("hello world")
 
-import streamlit
+
 
 
 
